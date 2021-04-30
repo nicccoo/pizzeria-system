@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TP_GLOBALIZADOR_PROGIII_RAMIREZ
+</name>
+</assembly>
+<members>
+<member name="T:TP_GLOBALIZADOR_PROGIII_RAMIREZ.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TP_GLOBALIZADOR_PROGIII_RAMIREZ.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TP_GLOBALIZADOR_PROGIII_RAMIREZ.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
